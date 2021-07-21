@@ -1,0 +1,22 @@
+username: aeron_mc
+password: aeronmc13
+email add: aeronmalicsi@gmail.com
+
+
+Control panel username:	0fe_29163218
+Control panel password:	**********
+Control panel URL:	cpanel.0fees.us
+MySQL username	0fe_29163218
+MySQL password:	**********
+MySQL hostname:	sql210.0fees.us
+FTP username:	0fe_29163218
+FTP password:	**********
+FTP host name:	ftp.0fees.us
+Your Website URL:	http://aeronmc.0fees.us
+
+dbname: 0fe_29163218_mc	
+username: 0fe_29163218
+host: sql210.0fees.us
+password: aeronmc13
+
+

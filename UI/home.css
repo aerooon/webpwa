@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background-color: rgb(133, 125, 132);
+}
+
+.container{
+    width: 50%;
+    text-align: center;
+    height: 10vh;
+    margin-left: 25%;
+    margin-top: 20%;
+    border: 3px solid rgb(243, 242, 200);
+    border-radius: 15px;
+    padding: 1em;
+}
+
+.sub{
+    padding: 3em;
+    margin-left: 43%;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.sub:hover{
+    color: rgb(255, 0, 0);
+}
+
+p{
+    color: red;
+}
